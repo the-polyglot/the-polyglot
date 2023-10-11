@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @the-polyglot
-- 👀 I’m interested in C#, C++, Golang & Kotlin
+- 👀 I’m interested in C#, C++, Golang, Kotlin, Typescript & Python(Sometimes)
 - 🌱 I’m currently learning Rust & Typescript
 - 💞️ I’m looking to collaborate on C#, C++ & Golang projects
 <!---
